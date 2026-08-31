@@ -1,0 +1,3 @@
+# Todo esto es salida de compilacion: git no debe tocar los finales de linea
+# ni intentar hacer diffs de texto. Evita commits falsos por CRLF/LF.
+* -text -diff
