@@ -13,7 +13,7 @@ and tournaments.
 
 ## License
 
-**© Carlos Bargues Carot. All rights reserved.**
+**© Kalgator. All rights reserved.**
 
 This repository hosts a compiled build so it can be played in the browser. It is
 **not** open source. No permission is granted to redistribute, modify, resell or
